@@ -1,0 +1,7 @@
+id,nombre,edad,ciudad,fecha_compra,monto,metodo_pago,val_nombre,val_edad,val_monto,val_fecha,val_metodo,val_ciudad,valido
+2,Maria Lopez,,valparaiso,,15000.0,efectivo,True,False,True,False,True,True,False
+3,Carlos Ruiz,30.0,santiago,,20000.0,transferencia,True,True,True,False,True,True,False
+4,Ana Torres,28.0,viña del mar,2023-04-20,,tarjeta,True,True,False,True,True,True,False
+6,Luis Diaz,150.0,santiago,2023-06-01,5000.0,efectivo,True,False,True,True,True,True,False
+8,,35.0,santiago,2023-08-10,18000.0,tarjeta,False,True,True,True,True,True,False
+9,Diego Soto,27.0,valparaiso,,22000.0,transferencia,True,True,True,False,True,True,False

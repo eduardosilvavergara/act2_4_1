@@ -1,0 +1,12 @@
+
+2026-05-06 14:20:12,308 - INFO - === INICIO PIPELINE ===
+2026-05-06 14:20:12,317 - INFO - Registros v�lidos: 3
+2026-05-06 14:20:12,317 - INFO - Registros rechazados: 6
+2026-05-06 14:20:13,518 - INFO - Insertado ID 1
+2026-05-06 14:20:13,645 - INFO - Insertado ID 5
+2026-05-06 14:20:13,772 - INFO - Insertado ID 7
+2026-05-06 14:20:13,837 - INFO - === RESUMEN ===
+2026-05-06 14:20:13,837 - INFO - Insertados: 3
+2026-05-06 14:20:13,837 - INFO - Ignorados: 0
+2026-05-06 14:20:13,837 - INFO - Errores: 0
+2026-05-06 14:20:13,837 - INFO - === FIN PIPELINE ===

@@ -1,0 +1,4 @@
+id,nombre,edad,ciudad,fecha_compra,monto,metodo_pago,val_nombre,val_edad,val_monto,val_fecha,val_metodo,val_ciudad,valido
+1,Juan Perez,25.0,santiago,2023-01-10,10000.0,tarjeta,True,True,True,True,True,True,True
+5,Pedro Gomez,45.0,valparaiso,2023-05-05,30000.0,efectivo,True,True,True,True,True,True,True
+7,Sofia Rojas,22.0,viña del mar,2023-07-12,12000.0,debito,True,True,True,True,True,True,True
